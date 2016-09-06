@@ -1,0 +1,11 @@
+---
+title: "Writing Macroscopes"
+author: "Aaron Beveridge"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+output_dir: "../macroscopes"
+---
+
+# Introduction
+This is the introduction to Writing Macroscopes
